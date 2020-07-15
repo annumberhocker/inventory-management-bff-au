@@ -1,0 +1,11 @@
+.git
+.cache
+
+.idea
+chart/
+coverage/
+dist/
+docs/
+node_modules/
+test-report.xml
+schema.gql
